@@ -16,9 +16,9 @@ I try to write my code as simple and clear as I can.
 
 I really like to communicate with people which know more interesting things in Java performance than me.
 
-Sometimes I like to use [JMM Specification rules](https://docs.oracle.com/javase/specs/jls/se17/html/jls-17.html) 
+Sometimes I like to use [JMM Specification rules](https://docs.oracle.com/javase/specs/jls/se17/html/jls-17.html) to prove correctness of my concurrent code when
 
-to prove correctness of my concurrent code when I directly use java.lang.Thread, locks and other low level threading Java things...
+I directly use java.lang.Thread, locks and other low level threading Java things...
 
 I don't really like reflection API but I can use it if I really need it. (Same with ASM)
 

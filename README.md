@@ -1,31 +1,35 @@
 ## Denery or Daniel Dorofeev.
-### (Don't use ExtraExtremeERA cuz idk why i called my github account this way)
+### (Don't use ExtraExtremeERA cuz idk why I called my github account this way)
 ------
-### (Russian) Java developer, Java performance 'enthusiast'.
+### (Russian) Java/Scala developer, performance 'enthusiast'.
 
-Programming languages: Java, Groovy and Rust.
+Programming languages: Java, Scala, Groovy and Rust.
 
-Java frameworks/libraries/tools I know: 
+Java/Scala frameworks/libraries/tools I know: 
 1. ASM bytecode manipulation framework. (Core and Tree API)
 2. Project Reactor. (I like reactive programming due to scalability, and simpicity)
-3. Gradle. (I know this build tool rather well, I also can make gradle plugins if I need it)
-4. JMH. (Just a beginner in microbenchmarks, I don't know many compiler side-effects)
-5. JCStress. (For testing interesting concurrent effects)
+3. Cats/Cats Effect. (Scala library for good FP support)
+4. Tofu. (Scala library for additional stuff in Cats)
+5. Gradle. (I know this build tool rather well, I also can make gradle plugins if I need it)
+6. JMH. (Just a beginner in microbenchmarks, I don't know many compiler side-effects)
+7. JCStress. (For testing interesting concurrent effects)
 
 Some Facts:
 ------
 * I try to write my code as simple and clear as I can.
 
-* I really like to communicate with people which know more interesting things in Java performance than me.
+* I like to write FP code in Scala with 'Tagless Final' style/pattern.
 
-* Sometimes I like to use [JMM Specification rules](https://docs.oracle.com/javase/specs/jls/se17/html/jls-17.html) to prove correctness of my concurrent code when I directly use java.lang.Thread, locks and other low level threading Java things...
+* I have organization called [XXR](https://github.com/xxr-mc) where I make interesting experimental projects,
+mostly realted to modifying game called "Minecraft".
 
-* I don't really like reflection API but I can use it if I really need it. (Same with ASM)
+* I really like to communicate with people which know more interesting things in programming than me.
+
+* Sometimes I like to learn theory more realted to Computer Science and use things like [JMM Specification rules](https://docs.oracle.com/javase/specs/jls/se17/html/jls-17.html) to prove correctness of my concurrent code, and I also like watch interesting Java/Scala conferences on youtube everyday.
+
+* I don't really like reflection API/Bytecode manipulation etc. but I can use it if I really need it.
 
 * I have this [repository](https://github.com/ExtraExtremeERA/TestJava) with usage examples of some Java libraries/frameworks/packages, where I study some interesting Java libraries, mainly focused on high performance.
-
-* I am planning to optimize server software of computer game called "Minecarft" to practice performance engineering,
-  * I had project where I was trying to optimize minecraft Forge-based server, but due to the small amount of knowledge I couldn't optimize it normally back then. So thanks for reading, i hope this info was useful to you.
 
 Contacts:
 ------

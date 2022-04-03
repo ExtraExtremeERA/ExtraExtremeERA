@@ -1,7 +1,7 @@
 ## Denery or Daniel Dorofeev.
 ### (Russian) Java / Scala developer, Minecraft modding and performance enthusiast.
 
-Hello, I'm Denery (Daniel Dorofeev), I like learning performance engineering (Performance testing, monitoring and tuning), clean code (Making correct and maintainable APIs), build and development automatization (Mainly with Gradle). I like modding server-side part of minecraft.
+Hello, I'm Denery (Daniel Dorofeev), I like learning performance engineering (Performance testing, monitoring and tuning), clean code (Making correct and maintainable APIs), build and development automation (Mainly with Gradle). I like modding server-side part of minecraft.
 
 P.S. \
 Don't use ExtraExtremeERA cuz idk why I called my github account this way...

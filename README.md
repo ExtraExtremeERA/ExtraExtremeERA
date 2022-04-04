@@ -3,9 +3,6 @@
 
 Hello, I'm Denery (Daniel Dorofeev), I like learning performance engineering (Performance testing, monitoring and tuning), clean code (Making correct and maintainable APIs), build and development automation (Mainly with Gradle). I like modding server-side part of minecraft.
 
-P.S. \
-Don't use ExtraExtremeERA cuz idk why I called my github account this way...
-
 Some Facts:
 ------
 * I try to write my code as simple and clear as I can.
